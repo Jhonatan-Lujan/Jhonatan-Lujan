@@ -7,13 +7,15 @@
 </p>
 
 <br />
+
 <h3 align="left">
   <samp>
   Languages and Tools:
   </samp>
 </h3>
 <br />
-<img align="left" alt="Postman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/postman.svg" />
+
+<img align="left" alt="Postman" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/postman.svg" />
 <img align="left" alt="Cypress" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cypress.svg" />
 <img align="left" alt="Javascript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
 <img align="left" alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
@@ -27,12 +29,13 @@
 <img align="left" alt="Linux" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/linux.svg" />
 
 <br />
+
+<br />
 <samp>
- <br /< 
+  <h3> Talking about Personal Stuffs: </h3>
+
+
   
-Talking about Personal Stuffs:
-
-
 - 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on Automation with JS
 - 💼 Currently looking for new job opportunities
