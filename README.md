@@ -38,6 +38,31 @@
 </h3>
 <br>
 
+---
+
+![Cypress](https://img.shields.io/badge/Cypress-E2E%20%2F%20API-red?logo=cypress&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI-gray?logo=githubactions&style=for-the-badge)
+
+
+### 🎯 Base project I built for UI/API:
+
+#### 🚀 [base-ui-api](https://github.com/Jhonatan-Lujan/base-ui-api) 
+**Cypress • API Service Layer • Builder Pattern • POM • Parallel Execution**
+
+Test automation framework demonstrating:
+
+- 🔐 **Framework Architecture** with POM, Service Layer, Builders
+- 🛠️ **Tech Stack**: ESBuild, Biome/ESLint, Faker.js, JSON Schema validation
+- ⚡ **Performance**: Parallel test execution via `cypress-split`
+- 📈 **Quality Tools**: Mochawesome reports, screenshots/videos, schema checks
+- 🧪 **CI/CD Ready**, modern patterns and maintainability
+
+[🔍 Explore the repo](https://github.com/Jhonatan-Lujan/base-ui-api) 
+
+---
+<br>
+
 <table align="center">
   <tr>
     <td align="center" width="80">
@@ -60,6 +85,8 @@
 </picture>
 <br>
 <br>
-<blockquote>
-  <i>If you automate a mess, you get an automated mess. (Rod Michael)</i>
-</blockquote>
+<div align="center">
+  <blockquote>
+    <i>If you automate a mess, you get an automated mess. (Rod Michael)</i>
+  </blockquote>
+</div>
